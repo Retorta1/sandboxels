@@ -120,6 +120,8 @@
 "freezer":"fagyasztó",
 "pipe":"cső",
 "pipe_wall":"csőfal",
+"mixer": "keverő",
+"grinder": "daráló"
 "ewall":"áramvezető_fal",
 "torch":"fáklya",
 "spout":"csap",
@@ -216,6 +218,7 @@
 "antimatter":"antianyag",
 "plastic":"műanyag",
 "molten_plastic":"olvadt_műanyag",
+"cloth": "ruha",
 "cellulose":"cellulóz",
 "wax":"viasz",
 "melted_wax":"olavasztott_viasz",
@@ -339,7 +342,7 @@
 "infection":"fertőzés",
 "poison":"méreg",
 "poison_gas":"méreggőz",
-"poison_ice":"méreg_jég",
+"poison_ice":"fagyott_méreg",
 "antidote":"ellenméreg",
 "tea":"tea",
 "coffee":"kávé",
@@ -382,7 +385,7 @@
 "cloud":"felfő",
 "rain_cloud":"esőfelhő",
 "snow_cloud":"hófelhő",
-"hail_cloud":"jégeső felhő",
+"hail_cloud":"jégeső_felhő",
 "thunder_cloud":"viharfelhő",
 "acid_cloud":"savfelhő",
 "pyrocumulus":"füstgomolyfelhő",
@@ -399,6 +402,7 @@
 "snake":"kígyó",
 "loopy":"kacskaringós",
 "warp":"torzulás",
+"midas_touch":"Midász_érintése"
 "radiation":"sugárzás",
 "rad_steam":"sugárzó_gőz",
 "rad_cloud":"sugárzó_felhő",
@@ -474,7 +478,7 @@
 "molten_slag":"olvadt_salak",
 "molten_dirt":"olvadt_föld",
 "debug":"hibaelhárító",
-"prop":"tulajdonság-állító",
+"prop":"tulajdonság_állító",
 "salt_ice":"sós_jég",
 "sugar_ice":"cukros_jég",
 "seltzer_ice":"fagyott_szódavíz",
@@ -540,4 +544,9 @@
 "blaster": "plazmavető",
 "propane_ice": "fagyott_propán",
 "molten_caustic_potash": "olvadt_kálium-hidroxid"
+"ectoplasm":"ektoplazma",
+"soul":"lélek",
+"tombstone":"sírkő",
+"spider":"pók",
+"web":"pókháló"
 }
